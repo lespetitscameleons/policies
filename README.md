@@ -1,5 +1,6 @@
 ![Image](http://petitscameleons.org.uk/wp-content/uploads/2015/06/PCam-logo.png)
-## Les Petits Caméléons' school policies
+
+## Our school's policies
 
 
 ## Need help to edit these policies?
