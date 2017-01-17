@@ -1,4 +1,6 @@
-![Image](http://petitscameleons.org.uk/wp-content/uploads/2015/06/PCam-logo.png)
+![Image](http://lespetitscameleons.org.uk/wp-content/uploads/2015/06/PCam-logo.png)
+
+[http://www.lespetitscameleons.org.uk/](http://lespetitscameleons.org.uk/)
 
 ## Our school's policies
 
