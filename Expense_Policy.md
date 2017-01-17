@@ -2,7 +2,7 @@
 
 ![Image](http://lespetitscameleons.org.uk/wp-content/uploads/2015/06/PCam-logo.png)
 
-back to [Policies' home page](HOME.md)
+back to [Policies' home page](README.md)
 
 # EXPENSE POLICY
 
