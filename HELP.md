@@ -2,6 +2,10 @@
 
 back [HOME](README.md)
 
+### How to contribute?
+
+Click on the [View the Project on GitHub](https://github.com/lespetitscameleons/policies) and copy the [Policy Template](Template_Policy.md) file.
+
 ### GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/lespetitscameleons/policies/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
