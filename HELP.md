@@ -1,8 +1,6 @@
 ## Help
 
-### Link to home page
-
-[HOME](README.md)
+back [HOME](README.md)
 
 ### GitHub Pages
 
