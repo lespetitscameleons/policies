@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+![Image](http://petitscameleons.org.uk/wp-content/uploads/2015/06/PCam-logo.png)
+## Welcome to Les Petits Caméléons' school policies
+
+
+### GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/lespetitscameleons/policies/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
