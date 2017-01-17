@@ -6,7 +6,7 @@
 
 ### List of policies
 
-- Expense Policy
+- [Expense Policy](Expense_Policy.md)
 - Conflict of Interest Policy
 - Behaviour and anti-bullying Policy
 - Intimate care Policy
