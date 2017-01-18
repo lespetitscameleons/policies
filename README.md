@@ -22,3 +22,9 @@
 
 Have a look at the [HELP](HELP.md) page.
 
+### License
+
+[![CC BY 4.0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+Content on this site is licensed under a [Creative Commons Attribution 4.0 International License
+CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

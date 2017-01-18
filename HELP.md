@@ -4,7 +4,20 @@ back [HOME](README.md)
 
 ### How to contribute?
 
-Click on the [View the Project on GitHub](https://github.com/lespetitscameleons/policies) and copy the `Template_Policy.md` file.
+- Click on [View the Project on GitHub](https://github.com/lespetitscameleons/policies) link;
+- Create a GitHub account if you do not already have one;
+- Copy the project into your account by using the Fork icon;
+- Make your modifications online by editing a current policy file in your account;
+- Save your work by committing your changes with a meaningful message;
+- Create a Pull Request to ask us to merge your work into our current policies and get credit for it.
+
+Thanks for contributing!
+
+### Explore GitHub
+
+- [GitHub Guides](https://guides.github.com/)
+  - [The easiest way to get started with GitHub](https://guides.github.com/activities/hello-world/)
+- [Writing showcases](https://github.com/showcases/writing)
 
 ### GitHub Pages
 
